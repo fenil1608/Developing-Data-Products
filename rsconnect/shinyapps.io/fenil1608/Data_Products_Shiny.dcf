@@ -1,0 +1,12 @@
+name: Data_Products_Shiny
+title: Data_Products_Shiny
+username:
+account: fenil1608
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2630206
+bundleId: 3458407
+url: https://fenil1608.shinyapps.io/Data_Products_Shiny/
+when: 1596187556.37548
+asMultiple: FALSE
+asStatic: FALSE
